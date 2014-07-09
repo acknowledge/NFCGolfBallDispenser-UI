@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classaction_1_1_action.html" title="Binding between the card reader and the database. " alt="" coords="168,5,267,32"/>
+<area shape="rect" id="node3" href="$classcardreader_1_1_card_reader.html" title="All actions from and to the NFC card reader are handled here. " alt="" coords="139,56,296,83"/>
+<area shape="rect" id="node4" href="$classpifacecontrol_1_1_pi_face_control.html" title="Control of the PiFace Digital module. " alt="" coords="126,107,309,133"/>
+</map>
